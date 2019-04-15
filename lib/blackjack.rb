@@ -78,7 +78,7 @@ def runner
   total_sum=hit?(sum)
   puts "total_sum is #{total_sum}"
   until total_sum>21
- total_sum= hit?(total_sum)
+
     end
     end_game(total_sum)
     end
