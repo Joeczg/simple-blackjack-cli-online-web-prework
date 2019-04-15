@@ -79,7 +79,7 @@ def runner
   
   until total_sum>21
 total_sum=hit?(total_sum)
-puts "Your cards add up to #{total_sum}"
+
     end
     end_game(total_sum)
     end
