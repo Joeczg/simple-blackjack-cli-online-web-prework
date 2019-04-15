@@ -48,7 +48,7 @@ def hit?(current_number)
   if decision== "h"
     card_total=current_number+deal_card
   else decision== "s"
-    # hit?(current_number)
+ 
   
       current_number
 
